@@ -9,5 +9,8 @@ package p.com;
  * @author crai.alumno
  */
 public class Donaña {
-    
+    public static void main(String[] args) {
+        System.out.println("Don aña es chipi");
+    }
+            
 }
